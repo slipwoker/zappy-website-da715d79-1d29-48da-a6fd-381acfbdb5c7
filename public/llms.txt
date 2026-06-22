@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://inbar-da715d79.zappy5.app
+https://example.com
 גלו עולם קסום של מציאות יד שנייה אצלנו בבית. חנות יד שניה עם פריטים מתחלפים, אווירה אישית וחוויית ציד אוצרות אמיתית. הצטרפו עוד היום לקהילת המחדשים!
 
 ### אודות
-https://inbar-da715d79.zappy5.app/about
+https://example.com/about
 הכירו את ענבר, הלב הפועם מאחורי חנות היד שניה הביתית. גלו את התשוקה למחזור, האהבה לפריטים עם היסטוריה והחזון לקהילה ירוקה ומחוברת יותר.
 
 ### איך זה עובד
-https://inbar-da715d79.zappy5.app/how-it-works
+https://example.com/how-it-works
 איך הופכים סיור וירטואלי לאוצר אמיתי? המדריך הפשוט והמזמין שלנו מסביר בדיוק איך מתנהלת חנות היד השניה הביתית – מצפייה, דרך תיאום ועד לאיסוף הנוח.
 
 ### צור קשר
-https://inbar-da715d79.zappy5.app/contact
+https://example.com/contact
 יש שאלה על פריט שראיתם בחנות היד השניה? רוצים לתאם ביקור ביתי ולגעת באוצרות? השאירו פרטים ואחזור אליכם במהירות כדי להתחיל את מסע המציאות המשותף.
 
 ### Products
-https://inbar-da715d79.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - inbar
 
 ### Cart
-https://inbar-da715d79.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://inbar-da715d79.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://inbar-da715d79.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://inbar-da715d79.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://inbar-da715d79.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://inbar-da715d79.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - inbar
 
 ### Category
-https://inbar-da715d79.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - inbar
 
 ### תודה שפניתם | inbar
-https://inbar-da715d79.zappy5.app/thank-you
+https://example.com/thank-you
 inbar - תודה שפניתם | inbar
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://inbar-da715d79.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://inbar-da715d79.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://inbar-da715d79.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Second-hand / Resale
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://inbar-da715d79.zappy5.app/sitemap.xml
-- Robots: https://inbar-da715d79.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://inbar-da715d79.zappy5.app/llms-full.txt
-- Products (JSON): https://inbar-da715d79.zappy5.app/products.json
-- Products (Google Merchant RSS): https://inbar-da715d79.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
