@@ -1,0 +1,104 @@
+# inbar — Generative Engine Optimization Map
+
+> A home-based resale business focused on selling a variety of second-hand items directly from the owner's home. The business has a casual, personal, and community-friendly vibe — think garage sale meets online marketplace. The inventory is diverse and ever-changing, offering buyers a treasure-hunt experience with everyday household goods.
+
+---
+
+## Pages
+
+### בית
+https://inbar-da715d79.zappy5.app
+גלו עולם קסום של מציאות יד שנייה אצלנו בבית. חנות יד שניה עם פריטים מתחלפים, אווירה אישית וחוויית ציד אוצרות אמיתית. הצטרפו עוד היום לקהילת המחדשים!
+
+### אודות
+https://inbar-da715d79.zappy5.app/about
+הכירו את ענבר, הלב הפועם מאחורי חנות היד שניה הביתית. גלו את התשוקה למחזור, האהבה לפריטים עם היסטוריה והחזון לקהילה ירוקה ומחוברת יותר.
+
+### איך זה עובד
+https://inbar-da715d79.zappy5.app/how-it-works
+איך הופכים סיור וירטואלי לאוצר אמיתי? המדריך הפשוט והמזמין שלנו מסביר בדיוק איך מתנהלת חנות היד השניה הביתית – מצפייה, דרך תיאום ועד לאיסוף הנוח.
+
+### צור קשר
+https://inbar-da715d79.zappy5.app/contact
+יש שאלה על פריט שראיתם בחנות היד השניה? רוצים לתאם ביקור ביתי ולגעת באוצרות? השאירו פרטים ואחזור אליכם במהירות כדי להתחיל את מסע המציאות המשותף.
+
+### Products
+https://inbar-da715d79.zappy5.app/products
+המוצרים שלנו - inbar
+
+### Cart
+https://inbar-da715d79.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://inbar-da715d79.zappy5.app/checkout
+תשלום
+
+### Login
+https://inbar-da715d79.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://inbar-da715d79.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://inbar-da715d79.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://inbar-da715d79.zappy5.app/product/:slug
+פרטי המוצר - inbar
+
+### Category
+https://inbar-da715d79.zappy5.app/category/:slug
+מוצרים - inbar
+
+### תודה שפניתם | inbar
+https://inbar-da715d79.zappy5.app/thank-you
+inbar - תודה שפניתם | inbar
+
+## Legal & Policy
+
+### Privacy Policy
+https://inbar-da715d79.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://inbar-da715d79.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://inbar-da715d79.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About inbar
+A home-based resale business focused on selling a variety of second-hand items directly from the owner's home. The business has a casual, personal, and community-friendly vibe — think garage sale meets online marketplace. The inventory is diverse and ever-changing, offering buyers a treasure-hunt experience with everyday household goods.
+
+## Target Audience
+- צרכנים ידידותיים לסביבה
+- משפחות עם מודעות תקציבית
+- אספני וינטג'
+
+## Industry
+Second-hand / Resale
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://inbar-da715d79.zappy5.app/sitemap.xml
+- Robots: https://inbar-da715d79.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://inbar-da715d79.zappy5.app/llms-full.txt
+- Products (JSON): https://inbar-da715d79.zappy5.app/products.json
+- Products (Google Merchant RSS): https://inbar-da715d79.zappy5.app/product-feed.xml
